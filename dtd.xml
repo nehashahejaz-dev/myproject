@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aptech [
+<!ELEMENT aptech (lab,batch,facultyname)>
+<!ELEMENT lab (#PCDATA)>
+<!ELEMENT batch (#PCDATA)>
+<!ELEMENT facultyname (#PCDATA)>
+
+
+]>
+<aptech>
+    <lab>o1</lab>
+    <batch> 2605c1</batch>
+    <facultyname> neha shah ejaz</facultyname>
+
+
+</aptech>

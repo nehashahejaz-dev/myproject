@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="datashow.xsl"?>
+
+<students>
+  <student>
+    <name>Ali Khan</name>
+    <course>Computer Science</course>
+    <marks>85</marks>
+  </student>
+  <student>
+    <name>Sara Ahmed</name>
+    <course>Software Engineering</course>
+    <marks>92</marks>
+  </student>
+  <student>
+    <name>Usman Raza</name>
+    <course>Information Technology</course>
+    <marks>78</marks>
+  </student>
+  <student>
+    <name>ali Raza</name>
+    <course>Information Technology</course>
+    <marks>78</marks>
+  </student>
+</students>
